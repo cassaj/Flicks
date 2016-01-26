@@ -1,3 +1,5 @@
+I am making a change
+
 # Project 1 - *flicks*
 
 **flicks** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
